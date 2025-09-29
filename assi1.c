@@ -1,3 +1,8 @@
+/*
+Problem Statement: Smart Parking Billing System
+Scenario: You are working as a junior software developer for a smart city project. The city’s new automated parking lot requires a basic billing software prototype to calculate parking charges for vehicles. The system must handle input of vehicle entry and exit times and then calculate the total amount to be paid.
+*/
+
 #include <stdio.h>
 void main()
 {
