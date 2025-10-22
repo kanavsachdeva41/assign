@@ -24,13 +24,13 @@ void main()
 
     int tdur = exth - enth, amount;
 
-    if (tdur <= 2)
+    if (tdur <= 4.5)
     {
-        amount = tdur * 2;
+        amount = tdur * 50;
     }
     else
     {
-        amount = 10 + (tdur - 2) * 3;
+        amount = tdur * 10;
     }
 
     printf("\n---- Parking Bill ----\n");
